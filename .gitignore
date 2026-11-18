@@ -9,3 +9,6 @@ env/
 *.iml
 .vscode/
 .DS_Store
+data/
+samples/
+lightning_logs/
